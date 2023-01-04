@@ -1,0 +1,16 @@
+.tag {
+  height: 300px;
+  background-image: url("styles/images/tablec.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 80%;
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+.list {
+  display: flex;
+  margin-right: 10px;
+  list-style: none;
+}
